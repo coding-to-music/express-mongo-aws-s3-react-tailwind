@@ -6,6 +6,10 @@ https://github.com/coding-to-music/express-mongo-aws-s3-react-tailwind
 
 From / By https://github.com/lucasmrl/roomie
 
+This is another attempt to get this working, the first was this one, did not work:
+
+https://github.com/coding-to-music/aws-S3-images-MongoDB-Node-Express-React-hooks-tailwind
+
 ## Environment variables:
 
 ```java
