@@ -1,3 +1,29 @@
+# express-mongo-aws-s3-react-tailwind
+
+# 🚀 Filesystem watcher for new tracks to populate Mongo 🚀
+
+https://github.com/coding-to-music/express-mongo-aws-s3-react-tailwind
+
+From / By https://github.com/lucasmrl/roomie
+
+## Environment variables:
+
+```java
+
+```
+
+## GitHub
+
+```java
+git init
+git add .
+git remote remove origin
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:coding-to-music/express-mongo-aws-s3-react-tailwind.git
+git push -u origin main
+```
+
 # Roomie
 (project created for learning)
 

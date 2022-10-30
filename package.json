@@ -1,5 +1,5 @@
 {
-  "name": "roomie-backend",
+  "name": "express-mongo-aws-s3-react-tailwind",
   "version": "1.0.0",
   "description": "A platform to find roommates by listing your space or finding one available. Built with React/Express/MongoDB/Tailwind.",
   "main": "server.js",
@@ -7,6 +7,7 @@
     "start": "node server.js",
     "heroku-postbuild": "cd client && npm install && npm run build",
     "dev": "nodemon server.js",
+    "deploy": "git add . && git commit -m Build && git push",
     "start:prod": "NODE_ENV=production nodemon server.js"
   },
   "repository": {
@@ -60,6 +61,6 @@
     "validator": "^13.0.0"
   },
   "engines": {
-    "node": "10.x"
+    "node": "16.x"
   }
 }
