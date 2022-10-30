@@ -1,5 +1,7 @@
 # express-mongo-aws-s3-react-tailwind
 
+Can't save a user. Don't waste time on this. A platform to find roommates by listing your space or finding one available. 🚀 Built with React/Express/MongoDB/Tailwind.
+
 # 🚀 A platform to find roommates by listing your space or finding one available. 🚀
 
 https://github.com/coding-to-music/express-mongo-aws-s3-react-tailwind
