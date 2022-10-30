@@ -1,6 +1,6 @@
 # express-mongo-aws-s3-react-tailwind
 
-# 🚀 Filesystem watcher for new tracks to populate Mongo 🚀
+# 🚀 A platform to find roommates by listing your space or finding one available. 🚀
 
 https://github.com/coding-to-music/express-mongo-aws-s3-react-tailwind
 
